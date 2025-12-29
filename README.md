@@ -1,4 +1,4 @@
--->Java One-to-One Chat Application
+Java One-to-One Chat Application
 
 A simple GUI-based one-to-one chat application developed using Java, Swing, and Socket Programming.
 This project demonstrates client–server communication and real-time messaging.
@@ -92,22 +92,16 @@ Run the client in two different terminals to start chatting.
 
 🖥️ Screenshots
 
-(Add your screenshots here after taking them)
 
-🔹 Server Running
-[ Screenshot of Server console ]
+<img width="1917" height="1031" alt="Screenshot 2025-11-24 212557" src="https://github.com/user-attachments/assets/a2b25f8a-5c89-4582-88e6-c6eb626805b7" />
+<img width="1919" height="1050" alt="Screenshot 2025-11-24 212624" src="https://github.com/user-attachments/assets/5aa79272-3b0d-4a1f-a44c-6ae2dafe1017" />
+<img width="1911" height="1059" alt="Screenshot 2025-11-24 212648" src="https://github.com/user-attachments/assets/bfbb2e18-8d97-4324-a8b5-9ae078130f1d" />
+<img width="1919" height="1013" alt="Screenshot 2025-11-24 212708" src="https://github.com/user-attachments/assets/073c4076-2814-42a3-93a6-dc8835a5fd32" />
+<img width="1896" height="1018" alt="Screenshot 2025-11-24 212726" src="https://github.com/user-attachments/assets/3cd141be-a91e-4901-9a12-c2261dced7b1" />
+<img width="1909" height="955" alt="Screenshot 2025-11-24 212743" src="https://github.com/user-attachments/assets/41cb7c2a-1898-4c1b-af3b-29b914ff2874" />
+<img width="1897" height="1010" alt="Screenshot 2025-11-24 212759" src="https://github.com/user-attachments/assets/736533ea-254e-41c1-adbc-e4fd1696e869" />
+<img width="1919" height="1006" alt="Screenshot 2025-11-24 212839" src="https://github.com/user-attachments/assets/7321fc30-b581-40b7-84d9-6817b1bd357a" />
 
-🔹 Client Login Screen
-[ Screenshot of Username Input GUI ]
-
-🔹 Chat Window
-[ Screenshot of Chat Interface ]
-
-🔹 Dark Mode (Optional)
-[ Screenshot of Dark Mode Chat ]
-
-🔹 File Sharing
-[ Screenshot of File Send/Receive ]
 
 🧪 Error Handling
 
